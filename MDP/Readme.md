@@ -9,6 +9,6 @@ Frozenlake is a simple grid problem. The objective is to train an agent to reach
 
 Towers of Hanoi is a mathematical puzzle consisting of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape. The objective of the puzzle is to move the entire stack to another rod, obeying the rules: 1)Only one disk can be moved at a time, 2) Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod, 3)No larger disk may be placed on top of a smaller disk. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2 n − 1, where n is the number of disks. For the purpose of this assignment, the number of disks to experiment with were chosen as 3,4 and 6 having 27, 81 and 729 states respectively.
 
-#Analysis
+# Analysis
 
 A detailed analysis of the performance of various Reinforcement Learning techniques on the above mentioned problems has been provided in Analysis.pdf.
