@@ -13,3 +13,7 @@ imbalance and relevant metrics chosen to analyse the performance of various algo
 Problem 2 is a multi label classification problem involving the Avila dataset from the UCI Machine learning repository. The Avila data set has been extracted from
 800 images of the ‘Avila Bible’, an XII century giant Latin copy of the Bible. The prediction task is to associate each pattern of the script to a copyist. The features include numerical data such as intercolumnar distance, margins, interlinear spacing, etc. The dataset consists of a training set of 10430 samples, and a test set of 10437 samples. There are 12 classes to which the data belong to and the distribution is imbalanced with the majority class representing 4286 instances
 and the minority class representing 5 instances. Oversampling was done to account for the imbalance and the model’s performance on the test set was evaluated with the original imbalanced testset.
+
+# Analysis
+
+A detailed analysis of the performance of various supervised Learning models on the above mentioned problems has been provided in Analysis.pdf.
