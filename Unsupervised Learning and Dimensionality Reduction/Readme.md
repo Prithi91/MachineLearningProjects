@@ -12,3 +12,7 @@ proteomic data. The need to identify subtypes different from the conventional on
 Problem 2 is a multilabel classification problem involving the Avila data set from UCI. The dataset has been extracted from 800 images of the ‘Avila Bible’, an XII century giant Latin copy of the Bible. The prediction task is to associate each
 pattern of the script to a copyist. The features include numerical data such as intercolumnar distance, margins, interlinear spacing, etc. There are 12 classes to which the data belong to and
 the distribution is imbalanced with the majority class representing 4286 instances and the minority class representing 5 instances.
+
+# Analysis
+
+A detailed analysis of the performance of various unsupervised learning algorithms on the above mentioned problems has been provided in Analysis.pdf.
